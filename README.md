@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nitin kumar Singh
 - 👀 I’m interested in Data Science,Machine learning And Problem solving 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning new technologies.
 - 💞️ I’m looking to collaborate on Project Guidance
 - 📫 How to reach me ...
 
